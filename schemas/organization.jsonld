@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.verdantix.com/#organization",
+  "name": "Verdantix",
+  "url": "https://www.verdantix.com/",
+  "email": "contact@verdantix.com",
+  "telephone": "+44 02032461000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Woolyard, 52-56 Bermondsey Street",
+    "addressLocality": "London",
+    "postalCode": "SE1 3UD",
+    "addressCountry": "GB"
+  },
+  "knowsAbout": [
+    "EHS (Environment, Health & Safety)",
+    "Sustainability",
+    "ESG",
+    "Net zero",
+    "Climate risk",
+    "Operational excellence",
+    "Industrial transformation",
+    "Industrial operations",
+    "Real estate and built environment",
+    "Risk management"
+  ]
+}

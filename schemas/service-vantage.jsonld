@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.verdantix.com/vantage#service",
+  "name": "Verdantix Vantage",
+  "serviceType": "Research platform",
+  "provider": {
+    "@type": "Organization",
+    "@id": "https://www.verdantix.com/#organization"
+  },
+  "url": "https://www.verdantix.com/vantage",
+  "description": "Verdantix Vantage is a platform designed for senior practitioners to access Verdantix analysis and resources across EHS, sustainability/ESG, net zero & climate risk, operational excellence/industrial transformation, real estate & built environment, and risk management.",
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Senior practitioners and enterprise buyers of software and services"
+  },
+  "areaServed": "Worldwide"
+}

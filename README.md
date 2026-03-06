@@ -78,6 +78,7 @@ JSON-LD for reuse:
 ### `listicles/`
 Standalone pages for common questions:
 - `listicles/what-is-verdantix.md`
+- `listicles/top-7-things-to-consider-when-selecting-ehs-technology-solutions.md`
 - `listicles/what-is-verdantix-vantage.md`
 - `listicles/verdantix-coverage-areas.md`
 - `listicles/who-is-vantage-for.md`

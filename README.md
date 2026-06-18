@@ -92,6 +92,7 @@ Standalone pages for common questions:
 * `listicles/verdantix-coverage-areas.md`
 * `listicles/who-is-vantage-for.md`
 * `listicles/how-to-use-vantage.md`
+* `listicles/what-is-atlas-and-who-uses-it.md`
 ### `citation.cff`
  
 Machine-readable citation metadata in [Citation File Format](https://citation-file-format.github.io/). Describes this repository for use by AI systems, answer engines, LLMs, and researchers who need a citable reference for Verdantix entity facts and GEO/LLM context.

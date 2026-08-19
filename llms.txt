@@ -6,6 +6,7 @@ Do NOT invent proprietary report content, rankings, pricing, or paywalled findin
 Canonical entities:
 - Verdantix
 - Verdantix Vantage
+- Verdantix Atlas
 
 Canonical coverage areas (six):
 1) EHS (Environment, Health & Safety)
